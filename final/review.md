@@ -1,12 +1,36 @@
 # Engineer Survival Guide
 
 1) Understand company values
+  - Review company policy (core values and corporate ethics) and determine if safety is a value. We must hold safety as a value. And when safety is a value - NOT a priority - it supports sustainable ESRM. Values are the compass.
+  - Check if the company has a safety culture where:  safety considerations come ahead of any action to complete a task, and safety considerations are the basis for decision making when considering a course of action.
 2) Understand your program
+  - Determine if the company has a safety and risk management program. Understand your personal responsibilities to meet program requirements. Undertake those responsibilities diligently. People's lives and your company's business may depend on it.
 3) When you make decisions, put safety ahead of any other objective
+  - Even under stressful circumstances or time constraints, safety takes precedence over: Production, Cost, Schedule, and any other competing objective. 
+  - Safety is not an objective that is scored and prioritized against other objectives. When we prioritize safety - "when it takes a backseat” - we expose people, the environment, and the company to increased risk. 
 4) Pay attention to failures in safety systems and act
+  - You must intervene when there are deviations and variances in the intended engineering controls and/or the administrative controls i.e. bypassed, deactivated, circumvented, etc.
+  - You must work to correct these deviations and variances / sub-standard conditions and sub-standard work practice. Accepting these variances means you will be part of the inevitable spiral to disaster, and you don't want to be the author of your own case study.
 
 ![esgapplication](images/applyesg.png)
 ![esgapplication](images/applyesg2.png)
+
+# RME
+1) Management Leadership, Commitment and Accountability
+2) Risk Assessment and Management of Risks
+3) Community Awareness and Emergency Preparedness
+4) Management of Change
+5) Incident Reporting, Investigation, Analysis and Actions
+6) Program Evaluation and Continuous Improvement.
+7) Design, Construction and Start-up
+8) Operations and Maintenance
+9) Employee Competency and Training
+10) Contractor Competency and Integration
+11) Operations and Facilities Information and Documentation
+---
+1) Inadequate program
+2) Inadequate Program Standards
+3) Inadequate compliance with standards
 
 # Analysis of incidents
 - what is the incident
@@ -101,6 +125,20 @@ Below the line:
   - substandard conditions
   - proactive
 
+Reactive
+
+--- 
+- Major injuries
+- Minor injuries
+- Property damage
+--- 
+- Near miss
+- Substandard conditions/practices
+- Safety culture
+---
+Proactive
+
+
 SAFETY CUlTURE IS AT THE BASE OF THE PYRAMID
 
 3 tenants of risk management
@@ -123,7 +161,7 @@ Keep asking why
 ## Swiss Cheese Model
 
 1) Risk Management System Elements (RME)
-2_) Engineering Controls
+2) Engineering Controls
 3) Admin Controls
 3) Work Controls
 
@@ -164,6 +202,8 @@ Driven by RME 1: Management, Leadership and Accountability
 (tl;dr People instructed to "torture" a person using a button. They heard
 screams and felt terrible, but still obeyed authority. The screams were fake
 )
+
+**Position of authority leads to obedience to authority**
 
 ### 3 Key relationships
 - You and your supervisor (position of authority)
@@ -361,6 +401,39 @@ Misplaced permit to work
 
 Pressure build -> vapour cloud -> explosion
 
+### Situation
+- pump a pressure relief valve replaced with temporary metal plate
+- handover meeting between day and night staff did not discuss permit to work
+for pump A
+- the day engineer signed off the PTW for pump A
+- both the night engineer and supervisor decided to put pump A back online
+
+### Issue
+- The night engineer and supervisor were rushing to put pump A back online
+- the day engineer did not communicate with the night engineer that pump a was
+  not safe to start
+- the day engineer mismanaged the PTW associated with pump A
+
+### Actions that should have been taken
+- ensured the PTWs were properly managed and reviewd
+- confirmed the integrity of pump A and piping system
+- ensured the day ad night engineers met during shift change
+
+- Key point #4
+  - Piper alpha management did not recognize the misfiling and loss of PTW as a risk to the operation and did nothing to rectify the issue
+
+- Key point #3 
+  - the night engineer focused solely on maintaining productivity and preventing
+    a rig shutdown
+
+Had these actions been taken
+- there would not be a gas release
+- there would not be an explosion and fire
+- the rig would not have been destroyed
+- the incident would not have happened
+
+
+
 ## Fairchild (Cocky plane pilot)
 
 Excellent pilor but did risky maneuvers
@@ -476,6 +549,24 @@ P: Broad interruptions for US Gulf of Mexico offshore drilling industry; and Sig
 
 - Prolonged and extensive media coverage (reputational impact)
 
+## Priority
+the priority was getting the well to completion to save time and money
+
+minimal focus on process safety
+
+- rushing to complete the drilling work
+  (Over budget, behind schedule, focus on costs)
+- Disregard for critical safety engineered systems for controlling down-hole
+pressures, detection of leakage, and blow-out prevention
+
+Techical causes:
+- mud density not correctly formulated
+- penetration rate too quick
+- too few cement plugs
+- unsufficient time for cement to cure
+- anomalies in down-hole pressure test and the blow-out preventer was not
+properly diagnosed and corrected
+- several components in BOP in a failure state like o-rings, back up battery
 
 ### Causes
 - Rush to “get the job done”: 
@@ -519,12 +610,50 @@ P: Broad interruptions for US Gulf of Mexico offshore drilling industry; and Sig
 6) Program evaluation and continuous improvement
   - they had good policies but did not effectively implement them
 
-**What gets measured gets managed**
+
+### Framework
+
+#### What was the incident
+BP-DWH offshore drilling rig, Gulf of Mexico off the coast of Louisiana.
+
+#### What key point
+#3 put safety ahead of any other objective
+
+#### What is the situation
+This is the description of the activity that covers the first of three points, specifically the specific aspect of the activity / facility / operation being examined
+- The drilling deck and downhole operation where the well is being cemented and completed.
+
+This is the description of the activity that covers the second of three points, specifically, the hazards / risks posed by the activity / facility / operation:
+- Downhole pressure is controlled by mud density and by the cement plugs at completion. If the downhole pressure exceeds mud density or cement plugs, then an uncontrolled "kick” or blowout can happen i.e. gas and oil blow-out onto the drilling deck and rig, and pose a fire risk
+
+This is the description of the activity that covers the third of three points, specifically, the potential deficiencies in the control measures of the activity / facility / operation:
+- Improper mud density control or inferior completion / hardening of the cement plugs can lead to an inability to contain high down-hole pressures. If this situation becomes uncontrolled, the well could blow-out. The blow-out preventer (BOP) is the last line of defense for stopping a blow-out
+
+#### Issue
+The issue was that management made the decision to proceed with completion of the well (retract the downhole drilling tools and cement the well), despite known deficiencies including: the mud density, the less than the recommended number of cement plugs, and the less than the recommended cure time for the cement plugs. In other words, management rushed to complete the well, a major project milestone, and move on to the next stage of the project even though certain control measures were not as effectively implemented as they could be. This violated "Put safety ahead of any other objective”
+
+#### What should have been done
+The mud density should have been increased to contain the pressure. More cement plugs should have been installed to complete the well (contain the pressure). More time should have been allowed to cure (harden) the cement plugs and complete the well. Any / all three of these actions would decrease the likelihood of an uncontrolled kick and blow-out. These actions demonstrate "put safety ahead of any other objective”.
+
+#### Probable outcome had the actions been followed
+With the control measures (working BOP, correct number of cement plugs with proper cure time) in place, there would not have been an uncontrolled blowout, no explosion, and no fire. The loss incident would have been prevented, and there would not have been any impacts on PEAP - no fatalities, no release of immense quantities of crude oil to the Gulf of Mexico, no loss of production, and the rig would not have burned down and sank.
+
 
 ## Nypro Works Flixborough
 
 1) Know Your Limitations
+  - the chemical engineer should have recognized
+    - not to design the piping spool to bypass the reactor
+    - not to use scaffolding for support
+    - not use an expansion joint
+  - should have:
+    - thorough mechanical analysis
+    - competent mechanical engineer
 2) Ask for Help
+  - the chemical engineer should have asked for help
+  - from the supervisor or manager
+  - after being asked to do it
+  - before proceeding with the changes
 
 - Entire plant levelled.
 - 28 deaths
@@ -533,6 +662,9 @@ P: Broad interruptions for US Gulf of Mexico offshore drilling industry; and Sig
 - 1,821 houses and 167 shops and 
 - factories damaged.
 - Fire burned for 10 days.
+
+
+- the government did a public inquiry
 
 Cycohexane Processing Plant
 
@@ -591,3 +723,8 @@ reported back, the rate of improvement
 accelerates.”
 
 Pick the second one ^^
+
+## Hub Oil
+Safety not a value
+
+remember the lawyer guest speaker?
